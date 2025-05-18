@@ -29,12 +29,16 @@ for inst in ["Allen Career Institute", "Aakash Institute", "Resonance", "Narayan
              "Motion Education", "Unacademy", "PW (Physics Wallah)", "BYJU'S", "Career Point"]:
     input_dict[f"Coaching_Institute_{inst}"] = [1 if institute == inst else 0]
 
-for col in features:
-    if col not in input_dict:
-        input_dict[col] = [0]
-
+# Create input DataFrame
 input_df = pd.DataFrame(input_dict)
 
+# Add any missing columns with 0 and reorder to match model features
+for col in features:
+    if col not in input_df.columns:
+        input_df[col] = 0
+input_df = input_df[features]
+
+# Make prediction
 if st.button("Predict"):
     selection = clf.predict(input_df)[0]
     expected_score = reg.predict(input_df)[0]
