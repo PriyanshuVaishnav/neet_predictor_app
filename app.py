@@ -34,6 +34,7 @@ for col in features:
         input_dict[col] = [0]
 
 input_df = pd.DataFrame(input_dict)
+input_df = input_df[features]  # Align columns with model training
 
 if st.button("Predict"):
     selection = clf.predict(input_df)[0]
