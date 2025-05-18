@@ -1,0 +1,1001 @@
+Student_ID,Student_Name,Coaching_Institute,Daily_Study_Hours,Mock_Test_Score,Subject_Strength,Consistency (%),Selected_NEET
+1,Anthony Gillespie,Career Point,11.8,383,Physics,65,0
+2,Laura King,Aakash Institute,4.4,643,Biology,76,1
+3,Lisa Cook,Aakash Institute,4.4,541,Chemistry,77,0
+4,Zachary Douglas,FIITJEE,5.0,720,Biology,66,1
+5,Ian Garcia,PW (Physics Wallah),11.6,476,Chemistry,55,0
+6,Denise Bell,Allen Career Institute,4.7,513,Biology,56,0
+7,Carlos Hammond,Motion Education,9.4,525,Biology,68,0
+8,Matthew Anderson,Allen Career Institute,10.3,608,Physics,75,1
+9,Daniel Sutton MD,BYJU'S,4.5,553,Biology,99,0
+10,Stephanie Jones,Resonance,6.3,597,Physics,54,0
+11,Michelle White,Motion Education,4.9,432,Physics,59,0
+12,Ricky Long,Resonance,3.6,714,Biology,63,1
+13,Sandra Pitts,FIITJEE,10.2,577,Biology,89,0
+14,Karen Cisneros,Motion Education,10.6,652,Chemistry,91,1
+15,Michael Bishop,Motion Education,8.9,465,Physics,72,0
+16,Cynthia Lee,PW (Physics Wallah),2.2,591,Chemistry,53,0
+17,Maria Colon,PW (Physics Wallah),12.0,456,Physics,86,0
+18,Thomas Evans,Unacademy,7.5,551,Chemistry,70,0
+19,Penny Warren,Aakash Institute,3.1,524,Biology,50,0
+20,John Barton,Aakash Institute,3.9,502,Chemistry,97,0
+21,Patricia Reed,Aakash Institute,6.7,602,Chemistry,70,1
+22,Jesse Miller,Career Point,11.9,720,Biology,72,1
+23,Molly Reilly,BYJU'S,11.8,414,Physics,100,0
+24,Jamie Mann,Resonance,3.0,572,Chemistry,92,0
+25,Anthony Martinez,FIITJEE,2.8,720,Biology,65,1
+26,Jason Simmons,Resonance,11.9,646,Chemistry,55,1
+27,Brooke Bryant,Resonance,9.0,405,Physics,85,0
+28,James Shields,FIITJEE,6.9,633,Biology,95,1
+29,Richard Bell,Allen Career Institute,6.1,532,Biology,64,0
+30,Lawrence Griffin,PW (Physics Wallah),4.3,627,Physics,82,1
+31,Garrett Ross,Narayana,4.5,480,Physics,85,0
+32,David Castro,FIITJEE,8.0,505,Biology,71,0
+33,Bonnie Powell,Motion Education,10.7,667,Chemistry,72,1
+34,Heather Smith,Motion Education,10.6,507,Biology,65,0
+35,Scott Gibson,PW (Physics Wallah),10.3,705,Chemistry,61,1
+36,David Ellison,Resonance,6.8,431,Physics,54,0
+37,Miss Shirley Shaffer,Allen Career Institute,11.1,622,Biology,72,1
+38,Daniel Parker,Resonance,9.5,372,Physics,51,0
+39,Shelly Jimenez,Unacademy,4.5,586,Chemistry,98,0
+40,Sierra Doyle,Career Point,8.9,498,Chemistry,67,0
+41,Joshua Brown,Allen Career Institute,8.1,497,Biology,50,0
+42,Tyrone Byrd,Career Point,2.1,452,Physics,59,0
+43,Megan Smith,Career Point,6.7,517,Biology,65,0
+44,Paul Osborne MD,FIITJEE,5.3,462,Biology,72,0
+45,David Fletcher,Resonance,9.6,344,Biology,76,0
+46,Ricardo Haas,Allen Career Institute,4.4,717,Biology,69,1
+47,Eric Stephenson,Aakash Institute,9.7,619,Biology,86,1
+48,Michael Campbell,Motion Education,3.9,517,Physics,85,0
+49,Ryan Mason,Aakash Institute,2.8,387,Biology,76,0
+50,Robert Conner,Allen Career Institute,8.0,700,Biology,54,1
+51,Cole Forbes,Resonance,3.9,613,Physics,83,1
+52,Michele Barnes,Career Point,8.3,672,Physics,96,1
+53,Rick Hurst,Career Point,9.6,460,Chemistry,91,0
+54,Krista Simmons,Motion Education,3.6,471,Chemistry,56,0
+55,Ashley Oconnor,Allen Career Institute,8.1,700,Biology,88,1
+56,Taylor Wright,Allen Career Institute,3.7,502,Biology,65,0
+57,Eric Salinas,Aakash Institute,10.2,544,Physics,57,0
+58,Nina Floyd,Aakash Institute,3.5,525,Physics,70,0
+59,Samuel Pope,Aakash Institute,3.4,579,Biology,69,0
+60,Alexa Morris,Unacademy,3.9,503,Chemistry,62,0
+61,Haley Johnson,Career Point,2.0,443,Chemistry,61,0
+62,Hannah Hall,FIITJEE,5.2,457,Physics,54,0
+63,Jessica Hill,Resonance,8.9,720,Chemistry,65,1
+64,Dr. Lisa Turner DDS,Motion Education,5.5,530,Chemistry,100,0
+65,Michael Robinson,Resonance,4.1,700,Physics,54,1
+66,Erica Martin,Unacademy,4.5,701,Physics,53,1
+67,April Hawkins,Allen Career Institute,9.5,505,Biology,85,0
+68,Cynthia Cook,FIITJEE,5.3,563,Chemistry,99,0
+69,Robert Wilson,Motion Education,6.2,383,Physics,56,0
+70,Jennifer Cowan,BYJU'S,10.0,537,Physics,86,0
+71,Jason Stone,Unacademy,8.4,531,Biology,71,0
+72,Denise Powell,Motion Education,9.8,544,Chemistry,89,0
+73,Mark Armstrong,Resonance,8.3,563,Physics,96,0
+74,Michael Skinner,Allen Career Institute,9.7,479,Biology,52,0
+75,Kristen Moore,Allen Career Institute,11.8,519,Biology,99,0
+76,Debra Grant,Career Point,6.2,584,Chemistry,86,0
+77,Priscilla Burke,FIITJEE,2.5,410,Biology,96,0
+78,Kaitlyn Garcia,Aakash Institute,4.2,613,Chemistry,68,1
+79,Brendan Carson,BYJU'S,8.2,720,Biology,86,1
+80,Gabriella Johnson,Unacademy,5.8,686,Physics,67,1
+81,Justin Johnson,Motion Education,10.3,336,Biology,69,0
+82,Calvin West,Aakash Institute,8.8,529,Chemistry,52,0
+83,Alyssa Gardner,BYJU'S,5.3,397,Physics,96,0
+84,Marcus Davis,Motion Education,10.6,479,Biology,93,0
+85,Tyrone Evans,PW (Physics Wallah),8.9,530,Chemistry,62,0
+86,Jeffrey Kelley,BYJU'S,8.0,466,Chemistry,100,0
+87,David Weaver,Allen Career Institute,8.0,510,Physics,89,0
+88,Matthew Bullock,PW (Physics Wallah),8.9,599,Physics,98,0
+89,Emily Hahn,FIITJEE,11.5,597,Physics,77,0
+90,Deborah Stewart,Narayana,7.2,485,Physics,66,0
+91,Amanda Parks,Career Point,9.6,354,Biology,59,0
+92,Lori Moon,Allen Career Institute,11.9,495,Chemistry,87,0
+93,Jeanne Obrien,Career Point,2.6,399,Chemistry,64,0
+94,Tracey Steele,Unacademy,4.7,565,Chemistry,74,0
+95,Selena Jones,Narayana,9.1,376,Biology,82,0
+96,Cameron White,BYJU'S,7.1,567,Biology,72,0
+97,Thomas Taylor,Career Point,2.7,600,Chemistry,72,0
+98,Steven Smith,Career Point,2.1,512,Biology,88,0
+99,Tammy Sweeney,Motion Education,5.3,340,Chemistry,67,0
+100,Craig Cook,Career Point,9.8,605,Chemistry,98,1
+101,Taylor Miller,Motion Education,6.3,591,Biology,97,0
+102,Mrs. Nicole Bennett,Career Point,7.2,431,Biology,72,0
+103,Wendy Keller,BYJU'S,9.7,459,Physics,96,0
+104,Sarah Young,PW (Physics Wallah),4.1,646,Biology,92,1
+105,Jose Sanders,BYJU'S,7.1,659,Biology,78,1
+106,Joel Miller,Unacademy,8.1,507,Chemistry,100,0
+107,Charles Wilson,Unacademy,3.3,677,Chemistry,51,1
+108,Emily French,BYJU'S,9.7,484,Biology,81,0
+109,Jonathan Soto,PW (Physics Wallah),9.0,495,Physics,69,0
+110,Carla Barber,Aakash Institute,2.7,700,Physics,66,1
+111,Wayne Green,Allen Career Institute,4.4,375,Chemistry,81,0
+112,Darrell Moss,Career Point,5.4,487,Physics,78,0
+113,Christopher Alvarez,Unacademy,10.1,551,Chemistry,99,0
+114,Kerry Anderson,Unacademy,10.1,626,Biology,86,1
+115,Jennifer Garcia,Unacademy,2.3,405,Chemistry,87,0
+116,Kyle Baker,Aakash Institute,7.4,642,Physics,69,1
+117,Theresa Yates,Career Point,3.8,592,Chemistry,87,0
+118,Rachael Edwards,FIITJEE,4.3,543,Physics,83,0
+119,Steven Roberts,PW (Physics Wallah),10.3,520,Physics,75,0
+120,Dr. Alison Tyler,Motion Education,8.8,640,Physics,71,1
+121,Dennis Turner,FIITJEE,4.3,672,Biology,59,1
+122,James Martinez,PW (Physics Wallah),7.0,515,Chemistry,54,0
+123,Belinda Roberts,Aakash Institute,6.6,300,Physics,60,0
+124,Darren Valencia DDS,Motion Education,2.7,359,Biology,99,0
+125,Marie Keller,Aakash Institute,3.1,615,Biology,90,1
+126,Eric Harper,BYJU'S,10.7,526,Biology,83,0
+127,Gary Patel,BYJU'S,2.2,627,Chemistry,91,1
+128,Maureen Young,Motion Education,7.8,453,Physics,67,0
+129,James Smith,Narayana,9.9,621,Biology,73,1
+130,Brittany Perez,Aakash Institute,11.1,380,Biology,51,0
+131,Jeremy Choi,FIITJEE,2.7,457,Physics,66,0
+132,Alicia Pennington,Aakash Institute,4.8,627,Biology,98,1
+133,Kelly Ross,Allen Career Institute,2.3,528,Biology,94,0
+134,Kevin Morton,Aakash Institute,9.1,491,Physics,66,0
+135,Cynthia Jenkins,Allen Career Institute,4.2,549,Physics,71,0
+136,Victor Austin,Allen Career Institute,8.7,477,Physics,71,0
+137,Tami Wilson,Narayana,10.5,428,Physics,58,0
+138,Timothy Gonzalez,Motion Education,9.2,639,Chemistry,64,1
+139,Kathryn Perkins,Motion Education,4.0,648,Physics,58,1
+140,Robert Jimenez,Motion Education,5.6,416,Physics,90,0
+141,Michael Garcia,Career Point,3.0,508,Physics,53,0
+142,Sarah Parsons,Narayana,8.7,313,Chemistry,81,0
+143,Sean Richardson,BYJU'S,4.8,456,Biology,90,0
+144,Jose Patterson,Allen Career Institute,6.2,594,Biology,82,0
+145,Jennifer Lopez,Resonance,3.5,652,Physics,76,1
+146,Lisa Mejia,Unacademy,2.9,444,Biology,58,0
+147,Shannon Edwards,Resonance,11.0,346,Chemistry,52,0
+148,Lisa Miller,Motion Education,10.4,276,Biology,78,0
+149,Edward Armstrong,BYJU'S,6.2,561,Physics,67,0
+150,Sara Richard,Resonance,7.3,594,Chemistry,53,0
+151,Jason Gill DDS,Aakash Institute,10.5,720,Physics,78,1
+152,Stephanie Gonzalez,Narayana,8.3,479,Biology,54,0
+153,Paula Tucker,FIITJEE,8.1,505,Physics,79,0
+154,Michael Berger,PW (Physics Wallah),7.3,552,Biology,90,0
+155,Timothy Johnson,Narayana,9.9,643,Biology,84,1
+156,Craig Perez,Aakash Institute,3.2,411,Physics,59,0
+157,Tara Jackson,Narayana,4.8,605,Physics,71,1
+158,Michelle Duffy,BYJU'S,2.7,568,Biology,65,0
+159,Melissa Duarte,FIITJEE,8.7,406,Biology,91,0
+160,Anthony Griffin,Unacademy,3.4,635,Physics,70,1
+161,James Rose,BYJU'S,3.7,383,Physics,58,0
+162,Mark Wilson,Unacademy,4.7,720,Biology,74,1
+163,Lisa Guzman,Motion Education,8.7,434,Physics,65,0
+164,Cory Kennedy,FIITJEE,11.7,562,Chemistry,88,0
+165,Kyle Harper,Career Point,4.4,422,Physics,92,0
+166,Lorraine Leon,Aakash Institute,8.4,406,Chemistry,59,0
+167,Wanda Munoz DDS,Unacademy,6.8,582,Physics,89,0
+168,Deborah Stewart,FIITJEE,11.4,494,Biology,86,0
+169,Christopher Petersen,PW (Physics Wallah),5.8,453,Chemistry,89,0
+170,Ariana Cardenas,PW (Physics Wallah),8.8,361,Physics,86,0
+171,Jared Bailey,Narayana,7.0,455,Physics,68,0
+172,Thomas Silva,FIITJEE,8.4,532,Chemistry,61,0
+173,Alex Byrd,Unacademy,10.8,644,Biology,51,1
+174,James Griffin,Unacademy,11.1,549,Biology,56,0
+175,Keith Kelly,Career Point,4.5,566,Biology,98,0
+176,Patricia Wang,Allen Career Institute,6.6,485,Chemistry,76,0
+177,Rita Wilson,Allen Career Institute,10.9,542,Biology,64,0
+178,Jeffery Mayo,Aakash Institute,8.8,419,Biology,58,0
+179,Jennifer English,BYJU'S,11.0,511,Physics,89,0
+180,Mr. Timothy White,PW (Physics Wallah),6.5,681,Chemistry,76,1
+181,Rachel Elliott,PW (Physics Wallah),3.3,672,Chemistry,67,1
+182,Teresa Payne,Career Point,6.8,658,Physics,50,1
+183,Michael Wright,Aakash Institute,7.3,519,Physics,75,0
+184,Roberta Glenn,Motion Education,4.4,551,Physics,94,0
+185,Benjamin James,Allen Career Institute,7.1,645,Biology,66,1
+186,William Allen,Allen Career Institute,5.6,639,Physics,85,1
+187,Justin Welch,Career Point,6.3,508,Physics,53,0
+188,Jacob Wilson,Allen Career Institute,2.8,651,Chemistry,51,1
+189,Kim Peters,Career Point,11.4,473,Physics,51,0
+190,Jason Jones,Resonance,9.9,512,Biology,89,0
+191,Samantha Guzman,Aakash Institute,9.0,530,Biology,79,0
+192,Kristin Lewis,FIITJEE,4.2,540,Physics,56,0
+193,Stephanie Collins,FIITJEE,7.8,606,Biology,93,1
+194,Kelly Pacheco,Motion Education,7.0,551,Chemistry,57,0
+195,Kristina Wilson,Aakash Institute,9.9,587,Physics,52,0
+196,Christine Klein,Aakash Institute,2.3,367,Physics,79,0
+197,Susan Wright,Aakash Institute,10.3,574,Chemistry,74,0
+198,Samantha Lloyd MD,PW (Physics Wallah),11.0,536,Biology,77,0
+199,Rick Barnes,PW (Physics Wallah),4.9,511,Chemistry,97,0
+200,Eric Brown,Allen Career Institute,3.2,559,Physics,99,0
+201,Katherine Gibson,Aakash Institute,4.9,626,Physics,98,1
+202,William Hernandez,Unacademy,5.9,496,Biology,66,0
+203,Timothy Reed,Narayana,11.2,644,Physics,58,1
+204,Lisa Rodriguez,PW (Physics Wallah),4.0,610,Chemistry,95,1
+205,Jasmine Thompson,Motion Education,6.3,575,Physics,84,0
+206,Gina Edwards,Career Point,6.0,508,Biology,90,0
+207,Sydney Santana,Unacademy,5.3,434,Physics,95,0
+208,Lauren Hernandez,FIITJEE,7.1,585,Chemistry,61,0
+209,Mr. Sean Miller,Unacademy,3.6,410,Physics,50,0
+210,Michelle Robinson,BYJU'S,3.7,519,Physics,66,0
+211,Brent Franco,Resonance,8.4,720,Biology,81,1
+212,Walter Hicks,PW (Physics Wallah),2.5,562,Chemistry,64,0
+213,John Baker,FIITJEE,4.3,560,Biology,94,0
+214,Shelly Mueller,Aakash Institute,2.6,720,Physics,70,1
+215,Mrs. Teresa Alvarez,FIITJEE,5.1,533,Physics,92,0
+216,Matthew Peterson,Motion Education,5.6,667,Chemistry,66,1
+217,Jennifer Alexander,Career Point,7.2,554,Chemistry,93,0
+218,Lisa Durham MD,BYJU'S,7.6,451,Chemistry,56,0
+219,Christopher Sandoval,Career Point,2.1,720,Physics,54,1
+220,Patricia Ward,PW (Physics Wallah),4.2,662,Biology,86,1
+221,Shannon Morris,Resonance,2.9,608,Chemistry,67,1
+222,Brandy Wyatt,Narayana,10.3,526,Chemistry,74,0
+223,John Booth,BYJU'S,7.7,632,Chemistry,99,1
+224,Jake Hill,PW (Physics Wallah),10.1,587,Chemistry,68,0
+225,Javier Murphy,Resonance,6.3,544,Physics,60,0
+226,Karen Marsh,Resonance,6.2,720,Biology,96,1
+227,Mrs. Nicole Saunders,Resonance,3.5,490,Physics,55,0
+228,Jennifer Roberts,Narayana,9.8,443,Physics,57,0
+229,Michaela Guerrero,PW (Physics Wallah),8.4,528,Physics,78,0
+230,Michael Fuentes,Narayana,6.4,509,Biology,97,0
+231,Harold Jones,Allen Career Institute,9.9,720,Physics,96,1
+232,Leslie Wilkins,Allen Career Institute,2.6,540,Chemistry,78,0
+233,Brett Payne,Motion Education,11.9,372,Chemistry,59,0
+234,Lauren Gutierrez,Resonance,9.0,628,Chemistry,98,1
+235,Jordan Robinson,FIITJEE,7.3,624,Biology,74,1
+236,Gary Thompson,Allen Career Institute,5.5,522,Chemistry,85,0
+237,Angelica Johnson,Narayana,11.3,474,Biology,91,0
+238,Julie Love,Unacademy,3.4,560,Chemistry,77,0
+239,Shannon Brown,Allen Career Institute,8.1,598,Chemistry,59,0
+240,Daniel Miller DDS,PW (Physics Wallah),9.5,540,Biology,79,0
+241,Robert Fuller,Resonance,3.4,562,Biology,98,0
+242,Bryan Green,Career Point,6.6,474,Chemistry,84,0
+243,Eric Murray,Allen Career Institute,10.9,500,Chemistry,85,0
+244,Timothy Vincent,Career Point,9.5,561,Physics,61,0
+245,John Johnson,PW (Physics Wallah),10.5,481,Chemistry,59,0
+246,Ruben Austin,Unacademy,4.0,688,Biology,96,1
+247,Neil Wood,Aakash Institute,10.1,504,Physics,82,0
+248,Nathaniel Phillips,Unacademy,5.0,458,Chemistry,96,0
+249,David Roth,PW (Physics Wallah),4.0,486,Physics,53,0
+250,Kristin Olson,Narayana,6.1,569,Chemistry,87,0
+251,Kelly Evans,Career Point,3.3,578,Biology,69,0
+252,Craig Russell,FIITJEE,5.3,533,Physics,90,0
+253,Ryan Chang,Narayana,6.1,672,Physics,51,1
+254,Robert Smith,Motion Education,6.6,485,Chemistry,56,0
+255,Michelle Gibson,Motion Education,6.2,424,Physics,70,0
+256,Mitchell Reed,Narayana,2.8,387,Physics,94,0
+257,Jason Rivera,BYJU'S,5.0,487,Chemistry,88,0
+258,Maria Davis,BYJU'S,4.4,712,Chemistry,83,1
+259,John Johnson,Resonance,5.0,438,Chemistry,97,0
+260,Matthew Haynes,Resonance,9.4,623,Chemistry,91,1
+261,Kristin Gonzalez,Unacademy,11.1,552,Physics,91,0
+262,Kenneth Smith,PW (Physics Wallah),11.5,557,Chemistry,80,0
+263,Sarah Norton,Career Point,4.0,595,Physics,77,0
+264,Jacob Torres,Motion Education,11.6,603,Physics,98,1
+265,Christopher Maxwell,Resonance,7.1,388,Physics,56,0
+266,Sherry Bass,Allen Career Institute,11.5,598,Chemistry,71,0
+267,Hannah Newman,Career Point,8.2,595,Chemistry,68,0
+268,Ryan Howell,Motion Education,3.9,562,Physics,85,0
+269,Brandon Kim,BYJU'S,8.8,627,Biology,78,1
+270,Kelly Kirby MD,Aakash Institute,3.4,661,Chemistry,97,1
+271,Mr. Martin Morrison,Allen Career Institute,5.8,684,Chemistry,92,1
+272,Elizabeth Howard,Motion Education,11.9,720,Biology,51,1
+273,Laura Rodriguez,BYJU'S,6.4,597,Biology,76,0
+274,Kevin Garcia,Resonance,7.5,534,Chemistry,51,0
+275,Diana Morris,Aakash Institute,5.7,621,Biology,85,1
+276,Jessica Miller,BYJU'S,10.8,486,Physics,57,0
+277,Christopher Washington DVM,FIITJEE,5.6,524,Biology,64,0
+278,Alyssa Hamilton,Aakash Institute,7.9,582,Physics,72,0
+279,Robert Benjamin,Unacademy,5.4,656,Physics,51,1
+280,Robert Martinez,Allen Career Institute,7.6,310,Physics,56,0
+281,Angela Pierce MD,Unacademy,7.7,659,Chemistry,65,1
+282,Joseph Collier,BYJU'S,9.1,669,Physics,71,1
+283,Sandra Williams,Unacademy,5.0,695,Physics,96,1
+284,Joshua Brown,Career Point,9.0,539,Physics,60,0
+285,Rebecca Jones,Allen Career Institute,11.9,389,Biology,88,0
+286,Stephanie Howell,Narayana,5.4,552,Chemistry,91,0
+287,Wesley Garrison,Narayana,11.1,637,Chemistry,55,1
+288,Jennifer Fox,Allen Career Institute,2.1,525,Physics,98,0
+289,Julie Ware,Aakash Institute,2.8,448,Biology,50,0
+290,Kayla Flores,Aakash Institute,9.3,401,Chemistry,50,0
+291,Brenda Pena,Career Point,10.3,483,Physics,85,0
+292,Dustin Griffith,Career Point,6.3,544,Biology,89,0
+293,Jaclyn Wallace,BYJU'S,7.6,420,Physics,63,0
+294,Anthony Dodson,BYJU'S,11.6,397,Biology,70,0
+295,Alicia Smith,Career Point,2.9,322,Chemistry,99,0
+296,Shannon Mejia MD,Motion Education,2.5,606,Chemistry,60,1
+297,Noah Luna,Resonance,10.0,396,Chemistry,77,0
+298,Kyle Jones,Narayana,6.4,422,Physics,74,0
+299,Cynthia Wilson,Allen Career Institute,9.3,439,Physics,57,0
+300,Jennifer Jones,Allen Career Institute,2.9,616,Physics,77,1
+301,Jonathan Rogers,Unacademy,4.3,518,Biology,89,0
+302,Michael Wall,Motion Education,8.0,508,Chemistry,75,0
+303,Kimberly Gonzales,FIITJEE,6.6,550,Chemistry,89,0
+304,Joseph Smith,Career Point,11.1,637,Chemistry,77,1
+305,Katrina Hooper,BYJU'S,4.8,461,Physics,99,0
+306,Jerry Miller,Career Point,5.3,467,Chemistry,62,0
+307,Brenda Dominguez,Resonance,8.6,630,Physics,71,1
+308,Audrey Jones,Narayana,5.0,565,Physics,66,0
+309,Aaron Stevens,Unacademy,10.9,680,Physics,91,1
+310,James Ballard,Resonance,5.4,461,Biology,73,0
+311,Christopher Gregory,FIITJEE,2.2,571,Biology,97,0
+312,Robert Craig,BYJU'S,2.9,660,Chemistry,73,1
+313,Adam Tate,Unacademy,3.0,480,Physics,69,0
+314,Zachary Perez MD,PW (Physics Wallah),5.4,603,Biology,55,1
+315,Christopher Clark,Career Point,7.1,523,Physics,71,0
+316,Jonathan Hayes,PW (Physics Wallah),6.1,691,Biology,85,1
+317,Connor Davis,FIITJEE,3.8,591,Biology,85,0
+318,Christine Winters,Unacademy,4.9,575,Biology,79,0
+319,Jeffrey Patel,BYJU'S,5.7,593,Physics,78,0
+320,Michael Hester,Career Point,11.4,465,Chemistry,98,0
+321,James Melendez,PW (Physics Wallah),3.9,674,Chemistry,53,1
+322,Sharon Garrison,BYJU'S,7.0,614,Physics,89,1
+323,William Edwards,Career Point,5.6,682,Biology,95,1
+324,Tracey Nguyen,BYJU'S,8.7,720,Chemistry,64,1
+325,Timothy Wilson,Unacademy,9.0,702,Physics,65,1
+326,Deanna Young,Narayana,11.4,530,Physics,78,0
+327,Michael Lee,Motion Education,10.8,517,Chemistry,97,0
+328,Jessica Farmer,Aakash Institute,6.1,635,Chemistry,97,1
+329,Jasmin Pittman,Career Point,7.4,421,Physics,52,0
+330,Michelle Ramos,Unacademy,2.7,640,Biology,93,1
+331,James Ryan,Career Point,10.7,541,Biology,99,0
+332,Pamela Melendez,PW (Physics Wallah),11.6,600,Chemistry,76,0
+333,Miss Nicole Smith MD,FIITJEE,10.3,505,Biology,94,0
+334,Rebecca Fritz,Allen Career Institute,6.6,679,Biology,85,1
+335,Luke Crane,FIITJEE,3.5,529,Biology,90,0
+336,Daniel Black,Aakash Institute,3.6,534,Biology,99,0
+337,Randy Oliver,PW (Physics Wallah),5.7,715,Biology,72,1
+338,Andrea Gibson,Allen Career Institute,2.5,622,Chemistry,100,1
+339,Holly Barrett,Unacademy,7.7,620,Chemistry,93,1
+340,Joshua Jenkins,PW (Physics Wallah),6.3,457,Chemistry,93,0
+341,Tim Thompson,Motion Education,4.8,676,Biology,69,1
+342,Keith Young,Allen Career Institute,4.5,697,Physics,100,1
+343,Heather Williams,BYJU'S,8.6,613,Chemistry,98,1
+344,Joseph Jackson,BYJU'S,6.2,462,Physics,81,0
+345,James Evans,Motion Education,8.8,614,Chemistry,69,1
+346,Eric Williamson,Unacademy,6.8,389,Chemistry,97,0
+347,Colton Vance,Aakash Institute,8.9,488,Physics,74,0
+348,Tracey Medina,Allen Career Institute,6.7,625,Biology,60,1
+349,Michael Richards,PW (Physics Wallah),11.9,393,Chemistry,72,0
+350,Michael Carson,Allen Career Institute,10.9,512,Chemistry,87,0
+351,Sandra Murillo,Aakash Institute,2.4,693,Physics,57,1
+352,Zachary Russell,Resonance,4.1,429,Biology,71,0
+353,Jonathan Miller,Motion Education,5.3,634,Physics,61,1
+354,Fred Benson,Motion Education,7.6,553,Physics,61,0
+355,Joseph Cantu,PW (Physics Wallah),10.0,452,Biology,95,0
+356,Michael Lopez,Motion Education,3.3,573,Biology,73,0
+357,Earl Fowler,Resonance,6.9,598,Biology,50,0
+358,Michael Green,Career Point,3.0,549,Biology,80,0
+359,Adam Wilkins,Unacademy,3.6,600,Chemistry,55,0
+360,Susan Perez,Narayana,4.8,548,Physics,66,0
+361,Gina Gibson,PW (Physics Wallah),3.8,467,Physics,63,0
+362,Zachary Spears,PW (Physics Wallah),4.8,516,Physics,59,0
+363,Suzanne Johnson,BYJU'S,10.0,537,Biology,100,0
+364,Stacy Prince,Allen Career Institute,5.9,449,Physics,82,0
+365,Laura Dorsey,Allen Career Institute,7.9,432,Chemistry,73,0
+366,Aaron Watson,BYJU'S,3.5,634,Biology,63,1
+367,Jennifer Johnson,BYJU'S,10.7,543,Physics,82,0
+368,Melanie Cole,FIITJEE,4.2,621,Biology,79,1
+369,Sharon Davis,BYJU'S,7.7,641,Chemistry,51,1
+370,Lindsey Smith,Aakash Institute,7.5,452,Chemistry,57,0
+371,Caleb Patterson,Resonance,7.6,712,Biology,52,1
+372,Daniel Thomas,PW (Physics Wallah),8.1,438,Chemistry,89,0
+373,Kyle Giles,Unacademy,2.9,601,Biology,75,0
+374,John Harris,BYJU'S,5.6,713,Biology,77,1
+375,Connor Jackson,Allen Career Institute,11.0,676,Biology,70,1
+376,Jason Chase,BYJU'S,7.3,685,Physics,99,1
+377,Daniel Mosley,Motion Education,2.7,514,Biology,80,0
+378,Ryan Kelley,BYJU'S,7.5,495,Physics,76,0
+379,Antonio Savage,Allen Career Institute,11.6,497,Chemistry,68,0
+380,Sarah Harris,FIITJEE,9.5,535,Physics,68,0
+381,James Morales MD,Career Point,2.8,628,Physics,81,1
+382,Tony Savage,Allen Career Institute,5.5,444,Physics,65,0
+383,Jamie Cook,Career Point,9.4,572,Physics,79,0
+384,Craig Fox,FIITJEE,5.3,618,Chemistry,72,1
+385,Jerry Jordan,PW (Physics Wallah),10.8,478,Chemistry,99,0
+386,Claudia Wells,BYJU'S,7.0,674,Biology,72,1
+387,Bradley White,Allen Career Institute,11.2,560,Chemistry,79,0
+388,Erica Snow,PW (Physics Wallah),4.8,677,Physics,63,1
+389,Christina Lutz,Narayana,6.8,445,Biology,93,0
+390,Jacqueline Guzman,Unacademy,6.4,596,Chemistry,85,0
+391,Terry Vance,Aakash Institute,6.7,475,Biology,63,0
+392,Randall Rose,Allen Career Institute,12.0,378,Biology,74,0
+393,Mrs. Kathleen Williams MD,BYJU'S,3.0,468,Chemistry,84,0
+394,Cory Jacobs,FIITJEE,3.3,647,Chemistry,70,1
+395,Casey Ruiz,Motion Education,6.4,566,Biology,84,0
+396,Jacob Ferguson,PW (Physics Wallah),8.4,426,Chemistry,76,0
+397,Dr. Ricardo Knapp,Motion Education,5.3,618,Chemistry,90,1
+398,Michael Cabrera,PW (Physics Wallah),3.0,497,Biology,53,0
+399,Todd Lee,FIITJEE,8.9,646,Chemistry,51,1
+400,Kelsey Bright,FIITJEE,3.9,615,Chemistry,57,1
+401,Elizabeth Kane,Allen Career Institute,2.1,621,Chemistry,78,1
+402,Joseph Chavez,FIITJEE,9.7,375,Biology,68,0
+403,Denise Thomas,Narayana,9.0,544,Chemistry,76,0
+404,Wayne King,Narayana,10.4,540,Chemistry,77,0
+405,Kevin Davies,Resonance,8.1,617,Biology,71,1
+406,Cindy Sutton,Aakash Institute,3.8,602,Chemistry,57,1
+407,Mary Stewart,Resonance,4.8,468,Chemistry,88,0
+408,Daniel Spencer,Motion Education,2.2,595,Chemistry,52,0
+409,Joseph Hall,Motion Education,11.4,546,Chemistry,56,0
+410,Courtney Scott,Narayana,11.4,508,Chemistry,90,0
+411,Thomas Johnson,Allen Career Institute,7.1,507,Physics,84,0
+412,Cindy Jones,Resonance,8.0,582,Physics,63,0
+413,Samuel Wright,Career Point,9.5,416,Physics,65,0
+414,Kristine Fisher,BYJU'S,10.8,467,Chemistry,75,0
+415,Melissa Hicks,Narayana,5.9,522,Chemistry,92,0
+416,Timothy Bauer,Narayana,2.1,701,Biology,54,1
+417,Angela Robinson,Narayana,11.9,537,Chemistry,69,0
+418,Bernard Kim,BYJU'S,5.8,605,Physics,66,1
+419,Sandra Campbell,Career Point,3.1,593,Physics,99,0
+420,Walter Murillo,BYJU'S,9.9,569,Biology,76,0
+421,Julie Oconnor,Allen Career Institute,3.6,576,Chemistry,65,0
+422,Steven Lloyd,Unacademy,9.5,394,Chemistry,99,0
+423,Bobby Harrison,Career Point,6.4,692,Chemistry,71,1
+424,Stephanie Foster,PW (Physics Wallah),9.1,629,Biology,52,1
+425,Jennifer Holland,Allen Career Institute,8.8,429,Biology,59,0
+426,Ashley Armstrong,BYJU'S,11.3,480,Physics,73,0
+427,Samuel Jackson,Career Point,5.6,407,Chemistry,79,0
+428,Philip Bailey,Narayana,9.6,577,Physics,90,0
+429,Erin Garcia,BYJU'S,10.6,628,Physics,57,1
+430,Eric Briggs,Allen Career Institute,12.0,350,Physics,64,0
+431,Elizabeth Anthony,BYJU'S,10.5,707,Chemistry,98,1
+432,Keith Carney,Motion Education,3.3,716,Biology,58,1
+433,Danielle Reilly,Resonance,2.2,616,Biology,92,1
+434,Matthew Wilson,PW (Physics Wallah),10.4,508,Biology,74,0
+435,Julie Robinson,PW (Physics Wallah),5.0,637,Physics,66,1
+436,Jonathan Johnston,Career Point,8.0,679,Physics,66,1
+437,David Montes,Resonance,8.8,636,Physics,54,1
+438,Debra Sullivan,Career Point,3.2,447,Physics,60,0
+439,Kevin Torres,FIITJEE,10.7,576,Chemistry,77,0
+440,Sharon Walker,Unacademy,11.9,439,Chemistry,96,0
+441,Tracy Chandler,BYJU'S,6.5,606,Physics,99,1
+442,David Edwards,Aakash Institute,7.5,618,Physics,85,1
+443,Mark Berry,Resonance,7.9,581,Chemistry,100,0
+444,Tracy Obrien,Narayana,6.2,452,Physics,53,0
+445,Thomas Anthony,Resonance,4.4,501,Physics,55,0
+446,Taylor Parker,FIITJEE,2.6,500,Biology,88,0
+447,Gabrielle Bowen,PW (Physics Wallah),3.0,530,Physics,76,0
+448,Christopher Lucas,Unacademy,9.8,572,Biology,97,0
+449,Christopher Washington,Allen Career Institute,9.9,578,Chemistry,89,0
+450,James Clarke,BYJU'S,2.1,338,Biology,73,0
+451,Jonathan Preston,Unacademy,11.6,556,Physics,59,0
+452,Colleen Jones,Career Point,8.0,575,Biology,84,0
+453,Holly Johnson,Allen Career Institute,7.9,638,Biology,100,1
+454,Joseph Ferguson,Career Point,11.3,700,Chemistry,51,1
+455,Kathryn Singh,Aakash Institute,3.1,625,Biology,96,1
+456,Kari Jones,Resonance,6.8,541,Biology,70,0
+457,Ann Dodson,Aakash Institute,4.8,578,Biology,73,0
+458,Courtney Hood,Resonance,5.5,582,Biology,60,0
+459,Tiffany Jackson,Aakash Institute,7.2,559,Biology,67,0
+460,Jaime Spencer,Career Point,5.1,524,Physics,86,0
+461,Olivia Page,Allen Career Institute,8.3,541,Biology,56,0
+462,Jeffrey Clements,Aakash Institute,7.4,356,Biology,67,0
+463,Marvin Wise,BYJU'S,7.9,415,Chemistry,99,0
+464,Brandon Moreno,Resonance,5.5,688,Biology,62,1
+465,William Gilbert,Unacademy,4.8,530,Chemistry,51,0
+466,Paige Miller,PW (Physics Wallah),10.7,478,Physics,74,0
+467,Sandra Nunez,Career Point,9.2,720,Biology,79,1
+468,Samantha Smith,PW (Physics Wallah),8.5,614,Physics,68,1
+469,Julie Serrano,Motion Education,8.6,646,Chemistry,75,1
+470,Teresa Mullins,Unacademy,9.2,599,Physics,75,0
+471,Joseph Brady,Resonance,3.8,595,Physics,78,0
+472,Christine Myers,Resonance,8.4,589,Chemistry,95,0
+473,Greg Woodard,Aakash Institute,5.0,597,Biology,73,0
+474,Erin Evans,Resonance,3.6,714,Physics,90,1
+475,Henry Campos,Aakash Institute,2.9,493,Biology,79,0
+476,Lynn Warren,FIITJEE,7.5,503,Biology,92,0
+477,Crystal Kennedy,Career Point,9.3,338,Chemistry,63,0
+478,Mr. Michael Wilkerson,BYJU'S,6.3,565,Biology,92,0
+479,Daniel Morris,FIITJEE,5.7,443,Chemistry,56,0
+480,William Bowers,Resonance,10.3,474,Biology,93,0
+481,Jason Fleming,Motion Education,4.7,681,Biology,70,1
+482,Jose Burgess,Career Point,7.0,464,Chemistry,56,0
+483,Wendy Woods,Motion Education,6.2,421,Biology,63,0
+484,David Snyder,FIITJEE,11.9,431,Biology,68,0
+485,Michael Huang,Resonance,4.0,528,Physics,94,0
+486,Lauren Dixon,Narayana,11.6,510,Chemistry,61,0
+487,Terri Clarke,Aakash Institute,10.7,574,Chemistry,59,0
+488,Peter Chavez MD,FIITJEE,3.0,569,Physics,87,0
+489,Mary Dunn,Career Point,7.4,518,Biology,88,0
+490,Andrew Arnold,Unacademy,8.4,548,Biology,72,0
+491,Peter Hawkins,Allen Career Institute,9.7,576,Physics,86,0
+492,Walter Williams,BYJU'S,10.9,534,Physics,73,0
+493,John Finley,Motion Education,10.7,689,Biology,76,1
+494,Brian Sanchez,BYJU'S,7.4,593,Physics,95,0
+495,Justin Waller,Resonance,11.4,581,Chemistry,67,0
+496,Lisa Alvarez,FIITJEE,2.6,543,Biology,62,0
+497,Susan White,BYJU'S,5.4,556,Physics,61,0
+498,Curtis Baker II,BYJU'S,4.6,671,Biology,52,1
+499,Kenneth Johnson,Unacademy,2.9,550,Physics,67,0
+500,Ronald Padilla,Unacademy,2.9,637,Chemistry,88,1
+501,Chad Lambert,Unacademy,11.9,706,Biology,99,1
+502,Justin Walker,Resonance,4.7,568,Chemistry,62,0
+503,Vanessa Flynn MD,Career Point,6.1,667,Chemistry,98,1
+504,James Hahn,FIITJEE,2.9,499,Physics,53,0
+505,Walter Oneill,Resonance,8.3,365,Physics,73,0
+506,Patrick Cox,Allen Career Institute,5.3,630,Physics,52,1
+507,Terry Walker,Unacademy,3.4,477,Chemistry,82,0
+508,Bonnie Duke,Resonance,11.4,691,Biology,77,1
+509,James Smith,Resonance,11.9,644,Chemistry,87,1
+510,Donna Ortiz,Motion Education,9.3,497,Physics,89,0
+511,Eric Santana,Narayana,7.1,622,Physics,56,1
+512,Paul Morales,Motion Education,7.3,310,Biology,92,0
+513,Kara White,Allen Career Institute,5.1,350,Chemistry,53,0
+514,Robert Shannon,Career Point,10.3,566,Biology,60,0
+515,Chase Mitchell,Career Point,2.7,488,Biology,59,0
+516,Tamara Williams,PW (Physics Wallah),4.8,540,Biology,80,0
+517,Jimmy Rogers,Allen Career Institute,5.0,611,Chemistry,88,1
+518,Danny Day Jr.,Resonance,8.7,495,Physics,69,0
+519,Judith Carter,FIITJEE,3.3,388,Chemistry,75,0
+520,Jason Smith,Resonance,9.9,644,Chemistry,59,1
+521,Daniel Alvarado,Unacademy,7.4,543,Biology,51,0
+522,Alexa Bell,FIITJEE,4.5,500,Chemistry,90,0
+523,Sharon Lee,Aakash Institute,8.1,522,Physics,71,0
+524,Cathy Hill,Resonance,10.8,557,Chemistry,56,0
+525,Maria Hernandez,Narayana,9.4,609,Biology,82,1
+526,Kyle Wise,Resonance,4.4,410,Chemistry,99,0
+527,Sherri Cuevas,Unacademy,10.6,414,Chemistry,80,0
+528,Christina Duke,BYJU'S,2.7,459,Biology,65,0
+529,Kimberly Archer,Unacademy,10.7,640,Biology,51,1
+530,Sonya Pennington,BYJU'S,2.9,681,Biology,80,1
+531,Anthony Reed,Unacademy,2.5,720,Physics,71,1
+532,Daniel Moss,Allen Career Institute,3.2,500,Biology,86,0
+533,Ashley Galloway,Unacademy,6.2,578,Physics,94,0
+534,Calvin Hughes,PW (Physics Wallah),10.1,592,Biology,82,0
+535,Janet Rhodes,PW (Physics Wallah),5.4,625,Biology,52,1
+536,John Tyler,Narayana,6.6,593,Physics,82,0
+537,Richard Powell,Career Point,3.9,707,Biology,52,1
+538,Melissa Adams,Career Point,6.0,676,Physics,92,1
+539,Jamie Pierce,BYJU'S,6.9,427,Chemistry,66,0
+540,Patrick Wright,FIITJEE,9.9,607,Biology,84,1
+541,James Fischer,Aakash Institute,5.0,604,Physics,51,1
+542,Kimberly Larson,Allen Career Institute,8.0,568,Biology,70,0
+543,Michelle Green,Career Point,9.1,650,Biology,54,1
+544,Kelli Oliver,Narayana,3.9,328,Physics,80,0
+545,Michael Santiago,Narayana,4.6,598,Physics,80,0
+546,Sarah Hess,Unacademy,11.2,423,Physics,82,0
+547,Lindsay Conrad,FIITJEE,5.4,531,Chemistry,79,0
+548,Marcus Mann,Motion Education,7.2,398,Physics,100,0
+549,Megan Griffin,Motion Education,11.7,448,Biology,56,0
+550,Vanessa Munoz,PW (Physics Wallah),6.7,648,Chemistry,50,1
+551,Joseph Crawford,BYJU'S,6.5,543,Physics,52,0
+552,Trevor Hayes,Motion Education,8.1,351,Biology,94,0
+553,Adam Rivera,Allen Career Institute,9.0,499,Biology,65,0
+554,Eric Livingston,FIITJEE,3.5,543,Physics,57,0
+555,Brandy Palmer,Resonance,6.9,720,Physics,90,1
+556,Leslie Smith,Unacademy,10.2,552,Physics,84,0
+557,Lori Cross,FIITJEE,3.4,449,Biology,90,0
+558,Ian Logan,Aakash Institute,3.0,404,Chemistry,90,0
+559,Elizabeth Bass,Career Point,3.5,572,Biology,79,0
+560,Isaac Ruiz,BYJU'S,7.9,371,Chemistry,97,0
+561,Mary Schmitt,Motion Education,7.0,549,Chemistry,68,0
+562,Bobby Jacobson,BYJU'S,11.4,628,Physics,75,1
+563,Colleen Foley,Allen Career Institute,4.0,585,Chemistry,58,0
+564,Karen Moore,PW (Physics Wallah),2.2,577,Chemistry,53,0
+565,Donald Watson,Motion Education,10.1,322,Chemistry,59,0
+566,Shannon Rose,Allen Career Institute,6.9,684,Physics,98,1
+567,Amy Taylor,PW (Physics Wallah),11.5,704,Physics,79,1
+568,Christopher Wood,Unacademy,9.9,598,Biology,85,0
+569,Blake Carpenter,BYJU'S,8.1,462,Biology,53,0
+570,Stacey Rodgers,Allen Career Institute,3.9,534,Physics,64,0
+571,Sandra Benson,BYJU'S,6.1,500,Chemistry,97,0
+572,Kelly Adams,Resonance,11.6,472,Biology,69,0
+573,Austin Palmer,Motion Education,2.6,590,Physics,95,0
+574,Ernest Davis,Aakash Institute,5.2,477,Physics,92,0
+575,Molly Gonzalez,Narayana,11.8,518,Chemistry,65,0
+576,Amanda Martinez,Resonance,5.0,556,Physics,79,0
+577,Phyllis Baker,FIITJEE,7.2,479,Chemistry,57,0
+578,Caleb Singh,BYJU'S,6.5,465,Physics,89,0
+579,Yolanda Brown,Unacademy,8.5,552,Physics,69,0
+580,Nathaniel Garcia,Narayana,8.8,521,Physics,96,0
+581,Michael Clements,Unacademy,9.0,685,Physics,71,1
+582,Katie Gonzalez,Unacademy,5.3,524,Chemistry,68,0
+583,Mr. Kristopher Becker,FIITJEE,7.1,619,Biology,81,1
+584,Thomas Davis,Resonance,4.5,720,Biology,75,1
+585,Daniel Holmes,Resonance,4.1,398,Biology,94,0
+586,Jessica Ware,Narayana,8.9,525,Chemistry,94,0
+587,Lori James,Allen Career Institute,10.8,551,Biology,68,0
+588,Maria Robinson,Aakash Institute,11.3,499,Chemistry,63,0
+589,Allison Johnson,PW (Physics Wallah),11.3,579,Chemistry,64,0
+590,Shannon Ward,Career Point,4.1,621,Biology,69,1
+591,Jennifer Casey,BYJU'S,11.8,544,Chemistry,56,0
+592,Judy Ruiz,PW (Physics Wallah),6.9,625,Biology,63,1
+593,Cody Jimenez,FIITJEE,5.8,561,Biology,70,0
+594,Devin Farmer,Aakash Institute,11.7,583,Chemistry,68,0
+595,Yolanda Park,FIITJEE,11.2,620,Biology,90,1
+596,Jeanette Keller,Motion Education,3.8,667,Chemistry,64,1
+597,Steven Bell,Aakash Institute,8.7,538,Physics,86,0
+598,Anthony Rodriguez,PW (Physics Wallah),5.2,575,Physics,83,0
+599,John Patterson,FIITJEE,2.7,570,Physics,87,0
+600,Justin Johnson,Unacademy,3.8,278,Physics,72,0
+601,Theodore Cook,PW (Physics Wallah),3.1,477,Physics,90,0
+602,Keith Sullivan,Career Point,8.0,676,Biology,85,1
+603,Teresa Barrett,Motion Education,5.7,406,Physics,56,0
+604,Joseph Fischer,Career Point,3.9,614,Physics,86,1
+605,Ryan Austin,BYJU'S,7.9,703,Biology,88,1
+606,Sherry Thomas,Narayana,8.2,543,Physics,59,0
+607,Ryan Howell,Career Point,11.3,568,Physics,96,0
+608,Stephanie Young MD,Career Point,8.1,412,Physics,59,0
+609,David Newman,Aakash Institute,7.7,392,Physics,98,0
+610,Lucas Andrews,BYJU'S,8.9,611,Physics,97,1
+611,Jose Bowers,Aakash Institute,4.4,551,Physics,61,0
+612,Jerry Wilson,Allen Career Institute,9.3,401,Physics,70,0
+613,Robert Friedman,Narayana,3.4,566,Biology,91,0
+614,Jessica Patrick,FIITJEE,8.0,510,Biology,91,0
+615,John Adams,Motion Education,2.7,456,Physics,55,0
+616,Kenneth Guerrero,Allen Career Institute,2.4,594,Physics,54,0
+617,Kelly Ramirez,Aakash Institute,9.9,444,Chemistry,88,0
+618,Stephanie Wood,Unacademy,7.0,574,Biology,52,0
+619,Antonio Berry,BYJU'S,9.0,655,Biology,50,1
+620,Meagan Blackwell,Aakash Institute,11.7,539,Chemistry,57,0
+621,Jasmin Rivas,Career Point,4.7,633,Physics,87,1
+622,Kyle Delgado,PW (Physics Wallah),2.4,585,Biology,89,0
+623,Austin Williams,Unacademy,5.9,473,Biology,99,0
+624,Victoria Smith,FIITJEE,2.9,389,Chemistry,58,0
+625,Allison Welch,Motion Education,8.5,556,Biology,68,0
+626,Austin Rodriguez,Aakash Institute,3.9,381,Chemistry,84,0
+627,Jennifer Larson,PW (Physics Wallah),8.7,476,Biology,79,0
+628,Heather Gray,FIITJEE,5.9,461,Biology,85,0
+629,Paul Larson,FIITJEE,2.0,720,Biology,71,1
+630,Craig Long,FIITJEE,2.2,451,Biology,93,0
+631,Matthew Beck,BYJU'S,7.2,545,Biology,76,0
+632,Allison Merritt,Narayana,8.2,446,Biology,77,0
+633,Haley Jones,Career Point,9.1,466,Physics,70,0
+634,Sean Washington,Narayana,11.4,596,Physics,55,0
+635,Adam Rogers,PW (Physics Wallah),7.7,668,Physics,85,1
+636,Paul Williams,Allen Career Institute,8.3,597,Chemistry,71,0
+637,Christopher Calderon Jr.,BYJU'S,5.8,442,Physics,71,0
+638,Katelyn Leblanc,BYJU'S,12.0,377,Physics,58,0
+639,Kevin Torres,FIITJEE,6.8,625,Physics,74,1
+640,Christy Rogers,Career Point,2.7,720,Biology,79,1
+641,James Poole,FIITJEE,3.8,510,Chemistry,75,0
+642,Nicole Norris,FIITJEE,3.3,492,Chemistry,67,0
+643,David Jackson,Allen Career Institute,5.8,620,Chemistry,81,1
+644,Christopher Roberts,Aakash Institute,11.6,493,Biology,83,0
+645,William Johnson,PW (Physics Wallah),6.2,557,Physics,78,0
+646,Ellen Cruz,Motion Education,10.2,493,Chemistry,89,0
+647,Veronica Houston,Narayana,11.8,579,Chemistry,57,0
+648,Kristy Lopez,FIITJEE,10.6,367,Chemistry,67,0
+649,Howard Brown,BYJU'S,5.9,606,Biology,97,1
+650,Jessica Matthews,PW (Physics Wallah),9.5,611,Biology,100,1
+651,Susan Gallagher,Narayana,11.9,466,Physics,81,0
+652,Audrey Gomez,Motion Education,2.1,429,Biology,59,0
+653,Christine Baker,Career Point,8.1,500,Chemistry,91,0
+654,Tyler Jenkins,PW (Physics Wallah),5.6,602,Biology,69,1
+655,Jennifer Torres,Resonance,10.4,611,Biology,79,1
+656,Joann Hamilton,Narayana,8.4,677,Biology,63,1
+657,Janet Hamilton,Career Point,5.9,572,Physics,51,0
+658,Lisa Snyder,PW (Physics Wallah),7.4,490,Chemistry,95,0
+659,Kristen Smith,Narayana,10.5,661,Chemistry,98,1
+660,Kimberly Reed,Career Point,2.7,469,Biology,73,0
+661,David Bell,Resonance,7.1,589,Biology,81,0
+662,Vanessa Simmons,Aakash Institute,7.2,557,Biology,92,0
+663,Richard Davis,Allen Career Institute,11.3,645,Biology,55,1
+664,Kathryn Garcia,FIITJEE,10.1,574,Chemistry,76,0
+665,Larry Walker,FIITJEE,4.5,553,Physics,100,0
+666,Carrie Smith,Aakash Institute,11.5,356,Biology,84,0
+667,Bradley Gibbs,Narayana,10.2,612,Biology,50,1
+668,Carla Garcia,Aakash Institute,11.8,561,Physics,88,0
+669,Julie Shepherd,Narayana,10.9,556,Biology,86,0
+670,Rhonda Flores,Narayana,6.2,603,Biology,81,1
+671,Jacob Jackson,BYJU'S,9.3,612,Physics,57,1
+672,Glen Beck,Aakash Institute,2.0,443,Biology,61,0
+673,Martin Oconnor,FIITJEE,10.1,448,Physics,66,0
+674,Brian Terry,Narayana,3.9,448,Physics,69,0
+675,David Burns,Allen Career Institute,8.6,443,Physics,85,0
+676,John Lane,Narayana,8.3,615,Biology,70,1
+677,James Curtis,Narayana,11.2,559,Physics,80,0
+678,Ashley Underwood DDS,FIITJEE,10.8,621,Physics,61,1
+679,Keith Chavez,FIITJEE,9.1,568,Physics,61,0
+680,Hunter Shelton,Aakash Institute,10.2,590,Chemistry,90,0
+681,Richard Thompson,Resonance,6.7,479,Physics,78,0
+682,Amber Lopez,Motion Education,11.3,415,Biology,97,0
+683,Todd Bryan,Motion Education,8.4,400,Biology,51,0
+684,Christine Weber,BYJU'S,6.1,452,Biology,78,0
+685,Linda Johnson,BYJU'S,8.7,480,Chemistry,65,0
+686,Heidi Berry,Allen Career Institute,5.2,703,Physics,58,1
+687,Jake Everett,Motion Education,3.5,386,Biology,52,0
+688,Carrie Hayes,BYJU'S,2.1,455,Physics,55,0
+689,Michael Powell,Career Point,9.9,604,Biology,52,1
+690,Misty David,Aakash Institute,6.3,444,Biology,99,0
+691,Sherry Reyes,Motion Education,9.4,528,Biology,64,0
+692,Joshua Morrison,Aakash Institute,7.7,718,Biology,68,1
+693,Christina Anderson,Motion Education,7.2,634,Physics,55,1
+694,Cynthia Bates,BYJU'S,10.6,698,Chemistry,95,1
+695,Debbie Rogers,Motion Education,6.8,593,Physics,53,0
+696,Carrie Gentry,Career Point,7.7,499,Physics,92,0
+697,Tommy Cruz,PW (Physics Wallah),9.6,550,Biology,68,0
+698,Seth Briggs,Narayana,11.9,466,Biology,90,0
+699,Gregory Stevens,Narayana,10.1,710,Biology,75,1
+700,Kimberly Henderson,Unacademy,5.2,539,Chemistry,68,0
+701,Tony Espinoza,Allen Career Institute,7.5,668,Chemistry,68,1
+702,Kelly Fields,PW (Physics Wallah),7.0,594,Chemistry,86,0
+703,Jason Morales,Motion Education,7.6,518,Physics,100,0
+704,Michelle Mitchell,Allen Career Institute,3.0,560,Chemistry,58,0
+705,Mary Mills,Unacademy,6.5,615,Biology,98,1
+706,Autumn Reynolds,PW (Physics Wallah),5.8,720,Physics,52,1
+707,Jeremy Harvey,Career Point,8.3,587,Biology,51,0
+708,Kimberly Johnson,Resonance,5.8,554,Biology,66,0
+709,Spencer Coffey,Unacademy,9.6,575,Chemistry,51,0
+710,Deborah Sutton,BYJU'S,4.0,607,Biology,88,1
+711,Christina Kirk,Aakash Institute,10.1,466,Chemistry,96,0
+712,Lisa Knapp,Aakash Institute,6.2,574,Chemistry,70,0
+713,Kristen Powell,Career Point,8.2,545,Biology,70,0
+714,James Durham,Allen Career Institute,8.9,681,Physics,71,1
+715,James Hill,PW (Physics Wallah),9.8,575,Biology,73,0
+716,Andrea Kaiser,Career Point,5.7,455,Biology,67,0
+717,Emma Fisher,Unacademy,6.0,699,Physics,53,1
+718,Lisa Moore,FIITJEE,2.2,397,Chemistry,72,0
+719,Michelle Rangel,Allen Career Institute,9.3,625,Biology,68,1
+720,Mario Wagner,Motion Education,3.8,495,Physics,80,0
+721,Ryan Mullins,Unacademy,7.5,473,Physics,68,0
+722,Pamela Kent,Resonance,6.7,489,Physics,71,0
+723,Donald Bailey,FIITJEE,10.7,398,Chemistry,82,0
+724,Jose Davis,BYJU'S,4.8,573,Chemistry,80,0
+725,Andrew James,Unacademy,8.8,488,Physics,92,0
+726,Melissa Hill,Motion Education,10.8,578,Chemistry,66,0
+727,David Thomas,FIITJEE,4.7,531,Biology,100,0
+728,Michelle Smith,Aakash Institute,11.1,574,Physics,100,0
+729,James Ponce DDS,Allen Career Institute,11.8,582,Chemistry,50,0
+730,Michael Stevens,Career Point,5.3,625,Physics,97,1
+731,Jerry Hernandez,Unacademy,9.5,436,Chemistry,51,0
+732,Johnny Ford,Career Point,5.6,593,Biology,84,0
+733,Jerome Jenkins,Unacademy,11.7,509,Physics,65,0
+734,Carlos Thomas,Narayana,2.1,346,Biology,50,0
+735,Michelle Camacho,Narayana,11.8,630,Chemistry,66,1
+736,Vanessa Perez,Narayana,4.6,561,Biology,79,0
+737,Daniel King,Career Point,9.5,498,Physics,93,0
+738,Curtis Le,Unacademy,11.6,580,Chemistry,62,0
+739,Jason Finley,PW (Physics Wallah),11.4,498,Physics,87,0
+740,Denise Barnes,BYJU'S,8.6,381,Physics,68,0
+741,Nancy Phillips,Aakash Institute,7.1,599,Biology,64,0
+742,Sean Hatfield,Allen Career Institute,3.9,708,Physics,55,1
+743,Diana Wheeler,Career Point,3.3,327,Biology,72,0
+744,Jeff Logan,Resonance,2.5,696,Chemistry,94,1
+745,Alicia Conrad,Aakash Institute,11.6,555,Biology,58,0
+746,Matthew Adams,BYJU'S,10.1,465,Physics,70,0
+747,Carrie Richards,BYJU'S,4.9,618,Physics,54,1
+748,Emily Ruiz,Narayana,3.1,536,Physics,71,0
+749,Anita Daniels,Career Point,9.4,651,Biology,82,1
+750,Colton Jones,Aakash Institute,9.3,510,Biology,73,0
+751,Jordan Mills,Narayana,2.2,529,Chemistry,100,0
+752,Carla Richardson,FIITJEE,4.3,511,Biology,56,0
+753,Kelly Dunn,Motion Education,10.6,597,Biology,69,0
+754,Stephen Zuniga,Narayana,8.2,478,Biology,52,0
+755,Zachary Zimmerman,Resonance,2.6,490,Chemistry,90,0
+756,Stephanie Castillo,Allen Career Institute,6.7,602,Biology,90,1
+757,Christopher Monroe,FIITJEE,5.9,498,Biology,72,0
+758,Heather Martinez,Unacademy,3.5,635,Physics,83,1
+759,Mikayla Ortiz,Narayana,10.1,544,Biology,51,0
+760,Jenna Johnson,BYJU'S,7.6,547,Chemistry,73,0
+761,William Cortez,BYJU'S,3.6,509,Physics,87,0
+762,Michael Mitchell,Allen Career Institute,3.9,513,Physics,88,0
+763,Brandi French,FIITJEE,3.7,527,Physics,87,0
+764,Howard Hall,BYJU'S,7.4,570,Chemistry,83,0
+765,Carl Gray,BYJU'S,10.1,650,Biology,53,1
+766,Lauren Sanford,Unacademy,11.0,275,Chemistry,68,0
+767,Jennifer Peterson,FIITJEE,3.1,447,Physics,69,0
+768,Donald Bishop,BYJU'S,3.6,472,Chemistry,64,0
+769,Ashley Leon,FIITJEE,10.5,517,Biology,85,0
+770,Tyler Rose,Aakash Institute,6.4,644,Physics,64,1
+771,Charles Fowler,Career Point,4.6,430,Biology,68,0
+772,Michael Harris,Aakash Institute,10.7,609,Chemistry,65,1
+773,David Dillon,Allen Career Institute,11.7,488,Biology,78,0
+774,Brian Parker,Unacademy,8.1,300,Chemistry,61,0
+775,Todd Tucker,Narayana,4.7,511,Biology,57,0
+776,Lydia Morrison,Resonance,4.4,359,Chemistry,100,0
+777,Barbara Cook,Allen Career Institute,2.3,424,Physics,65,0
+778,Sarah Morales,PW (Physics Wallah),5.6,610,Biology,51,1
+779,Tyler Greene,PW (Physics Wallah),7.0,720,Biology,89,1
+780,Christine Boyle,Aakash Institute,4.5,372,Chemistry,75,0
+781,Sean Harmon,Resonance,5.8,512,Physics,95,0
+782,Hannah Moore,Aakash Institute,5.7,643,Biology,53,1
+783,Daniel Mcintosh,PW (Physics Wallah),5.6,533,Physics,65,0
+784,Matthew Cunningham,Motion Education,8.6,632,Physics,86,1
+785,Paul Garcia,FIITJEE,7.3,431,Chemistry,98,0
+786,Nichole Henry,Motion Education,7.2,543,Physics,89,0
+787,Linda Smith,Aakash Institute,5.9,478,Chemistry,76,0
+788,Bradley Hamilton,Unacademy,4.8,561,Biology,60,0
+789,Alicia Schmidt,Aakash Institute,6.0,569,Chemistry,64,0
+790,Manuel Sullivan,Motion Education,2.9,555,Biology,50,0
+791,Bradley Floyd,BYJU'S,4.3,448,Chemistry,51,0
+792,Luis Brown,Motion Education,7.0,505,Physics,91,0
+793,Jennifer Mcmahon DVM,Career Point,8.4,440,Chemistry,97,0
+794,Raymond Valenzuela,Motion Education,4.5,633,Physics,80,1
+795,Holly Arroyo,Career Point,4.3,535,Chemistry,89,0
+796,Laura Kennedy,FIITJEE,10.9,563,Physics,92,0
+797,Jenny Mueller,Unacademy,3.3,359,Chemistry,71,0
+798,John Morris,Narayana,7.8,341,Chemistry,83,0
+799,James Mcdowell,Resonance,10.5,478,Biology,79,0
+800,Jeremy Kim,PW (Physics Wallah),3.0,558,Physics,97,0
+801,Kevin Rodriguez,Career Point,10.5,591,Physics,52,0
+802,Benjamin Williams,Unacademy,11.1,552,Chemistry,79,0
+803,Nina Smith,Resonance,5.5,520,Chemistry,74,0
+804,Monique Kennedy,Narayana,2.9,362,Chemistry,52,0
+805,Dawn Murray,Aakash Institute,8.7,602,Physics,85,1
+806,Patrick Pena,Career Point,7.8,542,Biology,56,0
+807,Teresa Green,Resonance,3.6,485,Chemistry,88,0
+808,Angela Mann,Unacademy,2.6,670,Physics,53,1
+809,Kelsey Mcdowell,Unacademy,3.2,586,Biology,56,0
+810,Joshua Hill,PW (Physics Wallah),3.1,694,Biology,82,1
+811,Brady Thomas,Career Point,11.7,475,Chemistry,100,0
+812,Dr. William Miller II,Unacademy,8.0,359,Chemistry,80,0
+813,William Hicks,Motion Education,4.1,631,Biology,79,1
+814,Laura Schneider,PW (Physics Wallah),8.1,720,Physics,52,1
+815,David Nunez,Narayana,10.6,446,Physics,52,0
+816,Lori Kline,Aakash Institute,4.8,714,Chemistry,53,1
+817,Nicholas Chen,Motion Education,11.6,463,Chemistry,74,0
+818,George Martinez,Unacademy,4.6,534,Physics,87,0
+819,Kyle Barnes,Aakash Institute,11.2,357,Biology,84,0
+820,Shelly Cardenas,Allen Career Institute,10.6,555,Physics,80,0
+821,John Bryant,PW (Physics Wallah),7.3,546,Biology,86,0
+822,Lee Gonzalez,PW (Physics Wallah),11.6,568,Chemistry,55,0
+823,Jenna Wright,Career Point,3.4,617,Chemistry,65,1
+824,Jessica Duncan,Unacademy,11.2,502,Chemistry,69,0
+825,Melissa Morris,Motion Education,5.0,528,Physics,53,0
+826,Thomas Roberts,PW (Physics Wallah),2.2,570,Biology,100,0
+827,Gloria Quinn,Narayana,7.0,465,Biology,52,0
+828,Evan Bell,Aakash Institute,8.4,605,Physics,60,1
+829,Robert Wright,PW (Physics Wallah),8.0,384,Physics,69,0
+830,Ashley Flores,BYJU'S,9.3,720,Chemistry,55,1
+831,Logan Barrett,BYJU'S,11.8,635,Biology,93,1
+832,Jill Wood,Resonance,6.3,624,Chemistry,62,1
+833,Justin Vasquez,Resonance,6.9,648,Biology,52,1
+834,William Hopkins,PW (Physics Wallah),5.2,470,Chemistry,87,0
+835,Tracy Rodriguez,PW (Physics Wallah),11.5,573,Chemistry,60,0
+836,Paul Navarro,FIITJEE,4.5,384,Chemistry,67,0
+837,Luis Calhoun,PW (Physics Wallah),11.9,596,Physics,92,0
+838,Wendy Lopez,BYJU'S,7.4,516,Biology,77,0
+839,Dylan Davis,Allen Career Institute,6.3,412,Biology,67,0
+840,Maurice Thompson,Resonance,10.6,375,Chemistry,61,0
+841,Peter Valenzuela,Unacademy,4.9,613,Physics,59,1
+842,Barbara Estrada,Aakash Institute,5.2,720,Physics,98,1
+843,Kevin Davis,Motion Education,8.4,456,Chemistry,90,0
+844,Robert Bryant,BYJU'S,5.6,414,Chemistry,84,0
+845,Sara Jordan,Unacademy,5.1,485,Biology,83,0
+846,Dr. Dana Brown,Resonance,11.6,366,Chemistry,71,0
+847,Deanna Shaw,Motion Education,5.5,699,Physics,95,1
+848,Tonya Romero,Narayana,11.3,510,Biology,90,0
+849,Stephanie Turner,Narayana,10.2,407,Chemistry,97,0
+850,Nicole Ruiz,Narayana,4.6,434,Physics,84,0
+851,Yolanda Davis,Motion Education,11.6,450,Chemistry,90,0
+852,Tiffany Lee,Allen Career Institute,11.6,701,Physics,79,1
+853,Nathan Khan,Narayana,7.3,632,Physics,54,1
+854,Diane Anderson,Resonance,4.5,416,Biology,57,0
+855,Zachary Frost,Allen Career Institute,5.4,607,Chemistry,90,1
+856,Jacob Davis,Aakash Institute,4.6,450,Physics,51,0
+857,Jeff Mayo,BYJU'S,11.1,503,Physics,69,0
+858,Timothy Fernandez,BYJU'S,10.9,479,Physics,90,0
+859,Jason Bailey,Allen Career Institute,5.3,495,Biology,97,0
+860,Julia Bailey,Aakash Institute,3.4,661,Physics,87,1
+861,Karen Cordova,Aakash Institute,6.1,617,Chemistry,68,1
+862,Sharon Jones,Career Point,11.8,655,Biology,59,1
+863,Diane Jones,Aakash Institute,4.0,638,Chemistry,60,1
+864,Joshua Davila,Allen Career Institute,8.4,522,Physics,54,0
+865,Janice Young,Unacademy,4.8,439,Biology,57,0
+866,Sara Jarvis,BYJU'S,8.1,715,Chemistry,73,1
+867,Michael Wilson,Resonance,11.5,494,Biology,67,0
+868,Doris Smith,Career Point,7.9,413,Physics,68,0
+869,Monica Ray,FIITJEE,8.3,602,Chemistry,81,1
+870,Carl Rojas,Career Point,10.1,714,Chemistry,71,1
+871,Lindsay Jones,Resonance,10.6,570,Physics,63,0
+872,Cynthia Obrien,FIITJEE,6.7,549,Chemistry,72,0
+873,Mr. Robert Ryan,Resonance,4.1,386,Biology,83,0
+874,Casey Willis,Resonance,6.5,521,Chemistry,63,0
+875,Kevin Wright,Allen Career Institute,11.4,534,Biology,60,0
+876,Patricia Marsh,Allen Career Institute,8.3,650,Physics,99,1
+877,Samuel Copeland,Narayana,4.7,496,Physics,97,0
+878,Barbara Grant,FIITJEE,9.0,527,Chemistry,73,0
+879,Jennifer Lam,Allen Career Institute,3.0,495,Chemistry,66,0
+880,Diana Henderson,FIITJEE,4.1,563,Chemistry,70,0
+881,Zachary Day,FIITJEE,4.0,454,Biology,54,0
+882,Rachel Harvey,FIITJEE,9.5,315,Chemistry,52,0
+883,Terry Mills,Allen Career Institute,11.9,393,Chemistry,100,0
+884,Vincent Sherman,Motion Education,5.3,527,Physics,62,0
+885,Lori Reyes,BYJU'S,8.2,536,Physics,53,0
+886,John Oconnor,Narayana,5.5,387,Physics,65,0
+887,Carlos Gillespie,Resonance,3.5,536,Physics,66,0
+888,Brian Rojas,Career Point,8.5,531,Chemistry,66,0
+889,Michael Taylor,Resonance,7.6,420,Physics,60,0
+890,Joshua Sullivan,Unacademy,11.9,417,Chemistry,88,0
+891,Melanie Richardson,PW (Physics Wallah),7.6,614,Chemistry,82,1
+892,Jasmine Smith,FIITJEE,11.4,599,Biology,56,0
+893,Benjamin Hernandez,Allen Career Institute,11.3,307,Chemistry,51,0
+894,Amy Mullen,Aakash Institute,2.4,644,Physics,59,1
+895,Meghan Shaw,Allen Career Institute,10.3,720,Physics,54,1
+896,Kaitlyn Adams,Narayana,6.7,629,Chemistry,66,1
+897,Catherine Collins,Aakash Institute,4.4,371,Biology,77,0
+898,Judith Jackson,Aakash Institute,10.2,720,Biology,51,1
+899,Rachel Powell,Career Point,10.5,440,Chemistry,78,0
+900,Emily Boyd,Resonance,8.1,512,Biology,61,0
+901,Stacy Reid,Unacademy,5.7,640,Biology,84,1
+902,Connor Alexander,FIITJEE,7.6,566,Physics,86,0
+903,Samuel Torres,Narayana,4.6,612,Chemistry,54,1
+904,Heather Mcdaniel,Aakash Institute,4.9,477,Physics,69,0
+905,Nicholas Day,Resonance,3.2,500,Chemistry,90,0
+906,Nicholas Banks,BYJU'S,3.5,393,Chemistry,94,0
+907,Antonio Noble,Career Point,2.3,421,Physics,98,0
+908,Christopher Jenkins,Resonance,3.5,647,Chemistry,55,1
+909,Dakota Bonilla,FIITJEE,3.9,488,Physics,91,0
+910,Kenneth Larson,Career Point,11.3,639,Physics,60,1
+911,Jeffrey Luna MD,Motion Education,7.1,531,Chemistry,50,0
+912,William Harper,Aakash Institute,4.4,478,Physics,58,0
+913,Michaela Hall,PW (Physics Wallah),11.4,605,Chemistry,78,1
+914,Andrew Garza,Allen Career Institute,8.5,643,Physics,84,1
+915,Maria Jones,Aakash Institute,9.5,468,Biology,84,0
+916,Desiree Wells,Motion Education,10.1,439,Biology,91,0
+917,Mikayla Moore,Allen Career Institute,4.0,669,Biology,77,1
+918,James White,Narayana,11.5,575,Physics,96,0
+919,Peter Johnson,Allen Career Institute,2.4,493,Chemistry,64,0
+920,Rebecca Beck,Narayana,7.1,555,Physics,86,0
+921,Cody Griffith,Unacademy,2.8,506,Physics,79,0
+922,Shannon Nash,BYJU'S,8.8,505,Chemistry,67,0
+923,Eric Campbell,Resonance,11.9,501,Chemistry,76,0
+924,David Ross,BYJU'S,6.9,720,Physics,92,1
+925,Pamela Travis,BYJU'S,2.2,392,Chemistry,70,0
+926,Willie Weaver II,FIITJEE,6.8,323,Physics,90,0
+927,Rachel Parker,Allen Career Institute,10.3,720,Physics,88,1
+928,Laura Johnson,Allen Career Institute,7.8,617,Biology,83,1
+929,Angela Chavez,BYJU'S,5.8,607,Physics,77,1
+930,Carla Goodman,Motion Education,6.2,689,Chemistry,83,1
+931,Adam Daniels,Career Point,5.5,461,Biology,77,0
+932,Michelle Gonzalez,Unacademy,4.8,697,Physics,60,1
+933,Andrew Brennan,Motion Education,10.4,545,Physics,77,0
+934,John Moore,Aakash Institute,5.7,720,Physics,73,1
+935,William Bruce,Resonance,5.5,461,Biology,63,0
+936,Kyle Rivera,Narayana,5.7,593,Chemistry,92,0
+937,Jessica Phillips,BYJU'S,10.0,587,Physics,54,0
+938,Christopher Copeland,Allen Career Institute,2.1,642,Chemistry,53,1
+939,Paul Manning,Narayana,8.8,622,Physics,52,1
+940,Teresa Wood,Resonance,9.0,606,Chemistry,82,1
+941,Jeffrey Lindsey,Motion Education,10.6,423,Biology,65,0
+942,Brandy Castillo,Resonance,4.6,558,Biology,86,0
+943,Erin Chavez,Motion Education,7.3,593,Chemistry,61,0
+944,Brandy Villa,Narayana,8.4,533,Chemistry,52,0
+945,William Chapman,Resonance,5.5,655,Biology,54,1
+946,Timothy Sosa,Motion Education,3.9,688,Biology,87,1
+947,Antonio Young,Allen Career Institute,10.2,618,Physics,72,1
+948,Evan Ashley,Motion Education,3.2,497,Chemistry,53,0
+949,Jason Ruiz,Motion Education,9.6,518,Biology,61,0
+950,Donna Nichols,BYJU'S,7.4,491,Chemistry,90,0
+951,Brian Miller MD,Unacademy,11.9,433,Biology,95,0
+952,Charlene Anderson,Career Point,5.1,559,Physics,86,0
+953,Sarah Davis,Aakash Institute,3.6,463,Biology,51,0
+954,Shelby Simon,Allen Career Institute,7.3,434,Biology,58,0
+955,David Mathews,Unacademy,9.5,546,Chemistry,89,0
+956,Nathan Faulkner,Motion Education,9.4,374,Physics,94,0
+957,John Berger,Aakash Institute,2.0,716,Physics,94,1
+958,Danielle Dougherty,PW (Physics Wallah),2.5,535,Chemistry,78,0
+959,Derrick Schmidt,Unacademy,11.4,465,Chemistry,95,0
+960,Jacob Murphy,Allen Career Institute,9.7,720,Chemistry,62,1
+961,Bryan Cowan,Career Point,10.7,566,Biology,76,0
+962,Brittany Lara,Resonance,9.5,418,Biology,86,0
+963,Seth Wilson,Unacademy,2.1,470,Physics,54,0
+964,Kevin Edwards,Unacademy,8.3,498,Chemistry,66,0
+965,Elizabeth Holmes,FIITJEE,7.7,720,Physics,67,1
+966,Nathan Moore,BYJU'S,3.1,711,Biology,57,1
+967,Krystal Cook,Resonance,6.3,534,Biology,70,0
+968,Ralph Ramirez,Resonance,7.0,578,Chemistry,71,0
+969,Jonathan White,Allen Career Institute,9.2,445,Chemistry,73,0
+970,Ronald Hamilton,PW (Physics Wallah),3.7,343,Chemistry,95,0
+971,Mrs. Michelle Weber,Career Point,10.4,647,Chemistry,87,1
+972,Alex Allen,Career Point,4.6,538,Chemistry,52,0
+973,Scott Galloway,Motion Education,7.1,462,Chemistry,64,0
+974,Dana Rodriguez,Motion Education,10.0,563,Biology,65,0
+975,Richard Cruz,BYJU'S,3.5,691,Physics,56,1
+976,Robert Spencer,PW (Physics Wallah),5.8,630,Biology,51,1
+977,Allison Evans,PW (Physics Wallah),2.0,430,Chemistry,96,0
+978,Kathryn Brown,Career Point,2.9,649,Physics,65,1
+979,Jared Henry,Aakash Institute,10.0,523,Physics,89,0
+980,Samantha Eaton,Motion Education,6.7,720,Physics,98,1
+981,Gregory Carter,FIITJEE,11.7,619,Biology,53,1
+982,Patrick Fry,FIITJEE,4.3,628,Biology,98,1
+983,Patrick Washington,Allen Career Institute,8.6,421,Biology,73,0
+984,Denise Santiago,PW (Physics Wallah),5.6,677,Biology,99,1
+985,Charles Gilbert,Aakash Institute,8.2,502,Biology,58,0
+986,Caleb Williams,Resonance,2.1,538,Biology,74,0
+987,Matthew Ortiz,FIITJEE,11.9,619,Chemistry,98,1
+988,Trevor Rivera,Allen Career Institute,8.0,552,Physics,80,0
+989,Brandon Jackson,Career Point,9.1,630,Biology,68,1
+990,Ryan Stevenson,Career Point,7.1,653,Chemistry,67,1
+991,Rebecca James,Allen Career Institute,10.4,471,Chemistry,58,0
+992,Ashley Stewart,Narayana,6.4,604,Chemistry,82,1
+993,Devin Scott,Narayana,2.1,489,Physics,55,0
+994,Scott Weber,BYJU'S,11.4,499,Biology,52,0
+995,Danny Burns,FIITJEE,4.6,600,Chemistry,75,0
+996,Paige Liu,Allen Career Institute,3.4,425,Physics,91,0
+997,Bethany Gonzalez,BYJU'S,10.5,512,Chemistry,64,0
+998,Luis Carrillo,Motion Education,3.9,634,Physics,98,1
+999,Teresa Ayers,Aakash Institute,9.1,480,Chemistry,61,0
+1000,Kristen Hunt,Aakash Institute,9.5,556,Physics,90,0
